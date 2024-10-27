@@ -13,6 +13,7 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - Artificial Intelligence
 
 ## 🖥️ Projects 
+- Quantum Monte Carlo (ongoing)
 - Genetic Annealing
 - Simulated Annealing on QUBO problems
 - Retrosynthesis Generator
