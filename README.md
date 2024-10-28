@@ -4,8 +4,8 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 ## 🛠️ Tools I Use- 
 - **Languages**- Python, JavaScript, C++, LaTeX
 - **Libraries**- NumPy, MatPlotLib, PyTorch, Ovito, discord.js
-- **Developer Tools**- VS Code, Linux WSL 
-- **Technologies/Frameworks**- SLURM, Google API, NodeJS 
+- **Developer Tools**- VS Code, Linux WSL, SLURM 
+- **Technologies/Frameworks**- Google API, NodeJS 
 
 ## 💡 My Interests 
 - Optimization Methods
