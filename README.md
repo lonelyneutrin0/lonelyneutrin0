@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math courses. 
+My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math. 
 
 ## 🛠️ Tools I Use- 
 - **Languages**- Python, JavaScript, C++, LaTeX
