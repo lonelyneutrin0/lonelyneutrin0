@@ -11,6 +11,8 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 ## 💡 My Interests 
 - Optimization Methods
 - Quantum Algorithms
+- Molecular Dynamics
+- Monte Carlo Simulations
 - Quantum Circuit Design
 - Artificial Intelligence
 
