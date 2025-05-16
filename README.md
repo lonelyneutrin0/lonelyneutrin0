@@ -22,7 +22,7 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - Quantum Arithmetic Circuit Design
 - Protein Structure Prediction
 
-## 📘 Libraries that I contribute to
+## 📘 Libraries that I Contribute to
 - [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue)
 - [aqua-blue-hyperopt](https://github.com/Chicago-Club-Management-Company/aqua-blue-hyperopt)
 
