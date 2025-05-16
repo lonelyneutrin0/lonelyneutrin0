@@ -22,6 +22,10 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - Quantum Arithmetic Circuit Design
 - Protein Structure Prediction
 
+## 📘 Libraries that I contribute to
+- [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue)
+- [aqua-blue-hyperopt](https://github.com/Chicago-Club-Management-Company/aqua-blue-hyperopt)
+
 <!--
 **lonelyneutrin0/lonelyneutrin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
