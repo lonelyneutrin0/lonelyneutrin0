@@ -16,7 +16,7 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - Quantum Algorithm Design
 
 ## 🖥️ Projects 
-- Quantum Braiding Simulations in Topological Insulators
+- Quantum Braiding Simulations in Kitaev Chains (ongoing)
 - Custom QEC on an FPGA (ongoing)
 - Discretized Quantum Adiabatic Evolution
 - Quantum Arithmetic Circuit Design
