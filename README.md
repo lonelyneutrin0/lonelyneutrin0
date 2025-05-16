@@ -2,25 +2,25 @@
 My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math. 
 
 ## 🛠️ Tools I Use- 
-- **Languages**- Python, JavaScript, C++, LaTeX
-- **Libraries**- Qiskit, NumPy, MatPlotLib, PyTorch, Ovito, discord.js
+- **Languages**- Python, JavaScript, C++, C, LaTeX
+- **Libraries**- Qiskit, NumPy, MatPlotLib, PyTorch
 - **Developer Tools**- VS Code, Linux WSL, SLURM 
 - **Technologies/Frameworks**- Google API, NodeJS
 - **Softwares**- NAMD, VMD, LAMMPS, OVITO
 
 ## 💡 My Interests 
-- Optimization Methods
-- Quantum Algorithms
+- Monte Carlo Methods
 - Molecular Dynamics
-- Monte Carlo Simulations
-- Quantum Circuit Design
-- Artificial Intelligence
+- Echo State Networks
+- Topological Quantum Computing
+- Quantum Algorithm Design
 
 ## 🖥️ Projects 
+- Quantum Braiding Simulations in Topological Insulators
+- Custom QEC on an FPGA (ongoing)
 - Discretized Quantum Adiabatic Evolution
-- Quantum Arithmetic Processing Units
-- Genetic Annealing
-- Simulated Annealing on QUBO problems
+- Quantum Arithmetic Circuit Design
+- Protein Structure Prediction
 
 <!--
 **lonelyneutrin0/lonelyneutrin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
