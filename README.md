@@ -25,7 +25,7 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 ## 📘 Libraries that I Contribute to
 - [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue) - Reservoir Computing 
 - [aqua-blue-hyperopt](https://github.com/Chicago-Club-Management-Company/aqua-blue-hyperopt) - Hyperparameter Optimization for aqua-blue
-- [neurop](https://github.com/lonelyneutrin0/neurop) - Neural Operators (private)
+- [neurop](https://github.com/lonelyneutrin0/neurop) - Neural Operators 
 
 <!--
 **lonelyneutrin0/lonelyneutrin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
