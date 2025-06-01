@@ -25,9 +25,7 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - [aqua-blue-hyperopt](https://github.com/Chicago-Club-Management-Company/aqua-blue-hyperopt) - Hyperparameter Optimization for aqua-blue
 - [neurop](https://github.com/lonelyneutrin0/neurop) - Neural Operators 
 
-<br/> 
-
-<br/> 
+## Stats :D 
 ![lonelyneutrin0's Stats](https://github-readme-stats.vercel.app/api?username=lonelyneutrin0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![lonelyneutrin0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lonelyneutrin0&theme=vue-dark&hide_border=true)
 ![lonelyneutrin0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelyneutrin0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
