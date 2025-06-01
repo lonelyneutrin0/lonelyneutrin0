@@ -1,12 +1,13 @@
 ## 👋 Hi there 
 My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math.
 ## 🛠️ Tools I Use- 
+![lonelyneutrin0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelyneutrin0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br/>
 - **Languages**- Python, JavaScript, C++, C, LaTeX
 - **Libraries**- Qiskit, NumPy, MatPlotLib, PyTorch
 - **Developer Tools**- VS Code, Linux WSL, SLURM 
 - **Technologies/Frameworks**- Google API, NodeJS
 - **Softwares**- NAMD, VMD, LAMMPS, OVITO
-![lonelyneutrin0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelyneutrin0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 💡 My Interests 
 - Monte Carlo Methods
 - Molecular Dynamics
