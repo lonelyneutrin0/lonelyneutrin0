@@ -6,7 +6,6 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - **Developer Tools**- VS Code, Linux WSL, SLURM 
 - **Technologies/Frameworks**- Google API, NodeJS
 - **Softwares**- NAMD, VMD, LAMMPS, OVITO
-<br/>
 ![lonelyneutrin0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelyneutrin0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 💡 My Interests 
 - Monte Carlo Methods
