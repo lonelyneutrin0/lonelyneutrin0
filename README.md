@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math. 
-
+![lonelyneutrin0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lonelyneutrin0&theme=vue-dark&hide_border=true)
 ## 🛠️ Tools I Use- 
 - **Languages**- Python, JavaScript, C++, C, LaTeX
 - **Libraries**- Qiskit, NumPy, MatPlotLib, PyTorch
@@ -26,5 +26,3 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue) - Reservoir Computing 
 - [aqua-blue-hyperopt](https://github.com/Chicago-Club-Management-Company/aqua-blue-hyperopt) - Hyperparameter Optimization for aqua-blue
 - [neurop](https://github.com/lonelyneutrin0/neurop) - Neural Operators 
-
-![lonelyneutrin0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lonelyneutrin0&theme=vue-dark&hide_border=true)
