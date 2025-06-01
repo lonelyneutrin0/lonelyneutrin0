@@ -1,6 +1,7 @@
 ## 👋 Hi there 
-My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math. 
+My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math. <br/> 
 ![lonelyneutrin0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lonelyneutrin0&theme=vue-dark&hide_border=true)
+<br/>
 ## 🛠️ Tools I Use- 
 - **Languages**- Python, JavaScript, C++, C, LaTeX
 - **Libraries**- Qiskit, NumPy, MatPlotLib, PyTorch
