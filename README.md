@@ -1,5 +1,5 @@
 ## 👋 Hi there 
-My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math.
+My name is Hrishikesh Belagali, I'm a sophomore at Michigan State University. I'll be pursuing a Computer Science degree with coursework in computational physics and math.
 ## 🛠️ Tools I Use- 
 - **Languages**- Python, JavaScript, C++, C, LaTeX
 - **Libraries**- Qiskit, NumPy, MatPlotLib, PyTorch
@@ -14,8 +14,6 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 - Quantum Algorithm Design
 
 ## 🖥️ Projects 
-- Quantum Braiding Simulations in Kitaev Chains (ongoing)
-- Custom QEC on an FPGA (ongoing)
 - Discretized Quantum Adiabatic Evolution
 - Quantum Arithmetic Circuit Design
 - Protein Structure Prediction
@@ -23,7 +21,8 @@ My name is Hrishikesh Belagali, I'm a freshman at Michigan State University. I'l
 ## 📘 Libraries that I Contribute to
 - [aqua-blue](https://github.com/Chicago-Club-Management-Company/aqua-blue) - Reservoir Computing 
 - [aqua-blue-hyperopt](https://github.com/Chicago-Club-Management-Company/aqua-blue-hyperopt) - Hyperparameter Optimization for aqua-blue
-- [neurop](https://github.com/lonelyneutrin0/neurop) - Neural Operators 
+- [neurop](https://github.com/lonelyneutrin0/neurop) - Neural Operators
+- [qutip](https://github.com/qutip/qutip) - Quantum Simulations Package
 
 ## Stats :D 
 ![lonelyneutrin0's Stats](https://github-readme-stats.vercel.app/api?username=lonelyneutrin0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
